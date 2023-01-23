@@ -4,10 +4,10 @@ Aplicação de monitoramento de hábitos desenvolvida durante o evento NLW-SETUP
 
 <strong>As tecnologias utilizadas foram:</strong><br><br>
 <strong>Front-end</strong><br>
-Web: React, TypeScript, Tailwindcss, Radix-ui.<br>
-Mobile: React-Native, TypeScript, Tailwindcss, Expo, React-Native-Reanimated;<br><br>
+Web: React, TypeScript, Tailwindcss e Radix-ui.<br>
+Mobile: React-Native, TypeScript, Tailwindcss e Expo;<br><br>
 <strong>Back-end</strong><br>
-Server: Node.js, Fastify, TypeScript, Prisma e SQLite.<br><br>
+Server: Node, Fastify, TypeScript, Prisma e SQLite.<br><br>
 
 <strong>Versão Mobile</strong><br>
 ![habits](habitsMobile.gif)
